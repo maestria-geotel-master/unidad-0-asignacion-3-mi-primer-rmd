@@ -6,12 +6,14 @@
 Si estás leyendo este documento, seguramente ya aceptaste la invitación
 que recibiste por correo. Si por el contrario no has aceptado la
 invitación o no la has recibido aún, acéptala o pide al profesor que te
-la reenvíe, para que leas desde tu propio repo. Por otra parte, clona tu
-repo localmente usando RStudio. Si no te acuerdas de cómo hacerlo, usa
-como referencia la guía [¿Cómo realizar una
+la reenvíe, para que leas desde tu propio repo.
+
+Por otra parte, clona tu repo localmente usando RStudio. Si no te
+acuerdas de cómo hacerlo, usa como referencia la guía [¿Cómo realizar
+una
 asignación?](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md)
 
-A continuación, estudia la [Guía mínima de
+Posteriormente, estudia la [Guía mínima de
 RMarkdown](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md).
 Puedes echarle un vistazo general a la guía, y luego utilizarla como
 referencia mientras vas realizando esta asignación.
