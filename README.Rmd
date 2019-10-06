@@ -8,8 +8,7 @@ editor_options:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
-  collapse=TRUE,
-  eval = F
+  collapse=TRUE
 )
 ```
 
