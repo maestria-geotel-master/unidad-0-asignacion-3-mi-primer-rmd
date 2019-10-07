@@ -26,30 +26,30 @@ Posteriormente, estudia la [Guía mínima de RMarkdown](https://github.com/maest
 
 ## Tu número aleatorio asignado
 
-En la tabla a continuación verás las direcciones de correo electrónico de cada estudiante de la maestría, abreviadas usando sus 5 primeros caracteres. Localiza tu abreviatura y toma nota de tu número aleatorio asignado, porque lo usarás para cumplir los mandatos que verás en este mismo documento.
+En la tabla a continuación verás las direcciones de correo electrónico de cada estudiante de la maestría, abreviadas usando sus 5 primeros caracteres (se excluyen los caracteres '.' y '_'). Localiza tu abreviatura y toma nota de tu número aleatorio asignado, porque lo usarás para cumplir los mandatos que verás en este mismo documento.
 
 ```{r}
  # abreviatura aleatorios
  #       acade        144
  #       agrie         79
  #       aleir        118
- #       Arq_c         77
+ #       arqco         77
  #       cindy         94
  #       franc         17
  #       geora        151
  #       hoyod        176
- #       ing.a         26
- #       ing.d         15
+ #       ingan         26
+ #       ingdi         15
  #       itac9        101
  #       ivanv        143
- #       l.bin        116
+ #       lbine        116
  #       leona          9
- #       ma.su         92
- #       magda         87
- #       maryj         31
+ #       magda         92
+ #       maryj         87
+ #       masue         31
  #       mmvol        160
  #       naui2        127
- #       Rober         98
+ #       rober         98
  #       wilne         54
  #       yoenn        115
 ```
