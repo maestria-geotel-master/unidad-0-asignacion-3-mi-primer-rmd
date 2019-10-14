@@ -106,13 +106,13 @@ str(...)
 worldbank_df[ ... , ] 
 ```
 
-* La columna de población urbana ocupa la posición 4. Puedes recuperar dicha columna escribiendo su posición en el índice de columnas. **Escribe el código necesario para mostrar la población urbana del país que te tocó usando posición de columna**.
+* La columna de **población urbana ocupa la posición 4**. Puedes recuperar dicha columna escribiendo su posición en el índice de columnas. Escribe el código necesario para mostrar la **población urbana del país que te tocó usando posición de columna**.
 
 ```{r}
 worldbank_df[ ... , ... ] 
 ```
 
-* Puedes usar el nombre de la columna alternativamente, en lugar de su posición. Por ejemplo, la columna de población urbana se denomina `urban_pop`. Si escribes dicho nombre entre apóstrofos dentro del índice de columnas, la recuperarías al igual que en el caso anterior. **Escribe el código necesario para mostrar la población urbana del país que te tocó usando nombre de columna**.
+* Puedes usar el nombre de la columna alternativamente, en lugar de su posición. Por ejemplo, la columna de población urbana se denomina **`urban_pop`**. Si escribes dicho nombre entre apóstrofos dentro del índice de columnas, la recuperarías al igual que en el caso anterior. Escribe el código necesario para mostrar la **población urbana del país que te tocó usando nombre de columna**.
 
 ```{r}
 worldbank_df[ ... , '...' ] 
